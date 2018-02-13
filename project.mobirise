@@ -732,6 +732,23 @@
             "slides__showBullets": true,
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1454x1080.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "钧爱健康 师法自然",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "经典案例：白癜风，先天性眼瘤、富贵包、糖尿病并发症、腰椎间盘突出、双腿无力、神经性引起咳嗽、脑中风、偏头痛、脑萎缩",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://jinshuju.net/f/GY59kV\" data-toolbar=\"-mbrBtnMove\">咨询预约</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"http://gzjunai.com/index.aspx\" data-toolbar=\"-mbrBtnMove\">查看案例</a>"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
                 "active": false,
                 "showButtons": true,
@@ -746,11 +763,11 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "经典案例：白癜风，先天性眼瘤、富贵包、糖尿病并发症、腰椎间盘突出、双腿无力、神经性引起咳嗽、脑中风、偏头痛、脑萎缩",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">咨询预约</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">查看案例</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://jinshuju.net/f/GY59kV\" data-toolbar=\"-mbrBtnMove\">预约咨询</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"http://gzjunai.com/index.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">了解更多</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20161012172248-6406-866x581.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -764,23 +781,6 @@
                 "contentAlign": "left",
                 "text": "公司董事长李金城教授从小习武学医，20岁就在武术学校担任教官，专修医科。在名师指点下潜心钻研自然医学，博学各家之长，独创神奇疗法--《坤乾掌诊治疗法》，此疗法传承了中华医学文化，综合运用中医理论，吸取现代医学和临床经验，将中医的推拿、经络按摩、气功及易经融为一体，因人辩症施治，专治疑难杂症，也是一种强身健体的神奇功法，得到医学界和患者的一致好评。",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://jinshuju.net/f/GY59kV\" data-toolbar=\"-mbrBtnMove\">预约咨询</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"http://gzjunai.com/index.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">了解更多</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1454x1080.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "钧爱健康 师法自然",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "钧者，是为平等、均匀，爱者，则为博爱、兼爱；<br>钧爱，是“普同一等，皆如至亲”的医者之心，是“人命至重，有贵千金”的医者之责；<br>钧爱，既是一份新时代的医者大爱，也是一份无分别的仁者博爱！",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">预约咨询</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">在线收听</a>"
               }
             ]
           }
